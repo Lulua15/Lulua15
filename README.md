@@ -1,9 +1,8 @@
-Amo a lua 🌕
+Amo a **Lua 🌕**
 
 **Lulua** é ✨ _special_ ✨
 
-- 🤓 Sou estudante do 1°ano do ensino médio, 2025.
-- 💻 vamos aprender a fazer um site.
-- 💬 Me chamo Luana, tenho 15 anos.
-
-- Curisidades sobre mim: Sou extrovertida e divertida; tenho 5 calopsitas; gosto de andar de patins, ver filmes, desenhar e comer.
+- _🤓 Sou estudante do 1°ano do ensino médio, 2025._
+- _💻 vamos aprender a fazer um site._
+- _💬 Me chamo Luana, tenho 15 anos._
+- _Curisidades sobre mim: Sou extrovertida e divertida; tenho 5 calopsitas; gosto de andar de patins, ver filmes, animes, desenhar e comer._
